@@ -1,2 +1,12 @@
 highlighter: pygments
 timezone: Asia/Seoul
+
+paginate: 10
+home_url: http://sebatyler.github.io
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

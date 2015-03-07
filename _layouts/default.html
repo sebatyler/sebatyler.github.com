@@ -11,18 +11,12 @@
     <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/stylesheet.css">
     <title>Sebatyler Blog</title>
     {% if page.title %}
-    {% assign base_path = '../../..' %}
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:type" content="article">
     <meta property="og:url" content="{{ site.home_url }}{{ page.url }}">
     <meta property="og:site_name" content="Sebatyler's Shout">
     <meta property="og:description" content="{{ page.excerpt }}">
     {% else %}
-    {% if paginator.page == 1 %}
-      {% assign base_path = '.' %}
-    {% else %}
-      {% assign base_path = '..' %}
-    {% endif %}
     <meta property="og:title" content="Sebatyler's Shout">
     <meta property="og:type" content="blog">
     <meta property="og:url" content="{{ site.home_url }}">
@@ -44,6 +38,16 @@
     </div>
 
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ko_KR/sdk.js#xfbml=1&appId=740681332714793&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">

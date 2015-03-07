@@ -1,13 +1,6 @@
 ---
 layout: default
 ---
-
-{% if paginator.page == 1 %}
-  {% assign base_path = '.' %}
-{% else %}
-  {% assign base_path = '..' %}
-{% endif %}
-
 <div>
 	<ul>
 		{% for post in paginator.posts %}
@@ -24,7 +17,7 @@ layout: default
 	</ul>
 </div>
 
-<div style="text-align:center;">
+<p style="text-align: center;">
 	{% if paginator.previous_page %}
 	<a class="previous" href="{{paginator.previous_page_path}}">이전 페이지</a>
 	{% endif %}
@@ -34,4 +27,6 @@ layout: default
 	{% if paginator.next_page %}
 	<a class="next" href="{{paginator.next_page_path}}">다음 페이지</a>
 	{% endif %}
-</div>
+</p>
+
+<div class="fb-like-box" data-href="{{ site.home_url }}" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false" data-width="640"></div>

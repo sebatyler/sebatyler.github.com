@@ -16,7 +16,7 @@
     <meta property="og:type" content="article">
     <meta property="og:url" content="{{ site.home_url }}{{ page.url }}">
     <meta property="og:site_name" content="Sebatyler's Shout">
-    <meta property="og:description" content="{{ page.excerpt }}">
+    <meta property="og:description" content="{{ page.excerpt | strip_html }}">
     {% else %}
     <meta property="og:title" content="Sebatyler's Shout">
     <meta property="og:type" content="blog">

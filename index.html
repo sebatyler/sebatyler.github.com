@@ -7,7 +7,7 @@ layout: default
 		<li>
 		<div>
 			<h3><a href="{{ post.url }}"><span>{{ post.title }}</span></a></h3>
-			<p>{{ post.excerpt }}</p>
+			<p>{{ post.excerpt | strip_html }}</p>
 			<span style="float: right;">{{ post.date | date: "%Y년 %m월 %d일" }}</span>
 		</div>
 		</li>

@@ -8,6 +8,15 @@ layout: default
 
   <div>{{ content }}</div>
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v2.4&appId=740681332714793";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <div style="margin: 20px 0 20px 0;">
   <p style="text-align: center;"><a href="/">포스팅 목록</a></p>
   <div class="fb-like" data-href="{{ site.home_url }}{{ page.url }}" data-layout="standard" data-share="true" data-show-faces="true" data-width="640"></div>

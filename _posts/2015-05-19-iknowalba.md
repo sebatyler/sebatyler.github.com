@@ -1,4 +1,5 @@
 ---
+layout: post
 title: iknowalba (아이노알바) 개발기
 ---
 

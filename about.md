@@ -1,0 +1,21 @@
+---
+layout: page
+title: About
+sitemap:
+    priority: 1.0
+    changefreq: weekly
+    lastmod: 2015-09-22T23:30:00+09:00
+---
+
+## 좋아하는 것
+- LA metal : Skid row, Whitesnake, Guns N' Roses 등
+- 태국 음식 : 팟타이, 카오팟, 뿌팟뽕커리, 팟카파오, 텃만꿍, 팟팍봉파이뎅 등
+- 운동 : 축구, 농구, 헬스, 배드민턴 등
+- 여행
+
+## 회사 생활
+
+1. NHN 통합검색플랫폼팀 : 2006. 7. 3 ~ 2013. 4. 22
+2. 이음소시어스 개발팀 : 2013. 4. 23 ~ 
+
+

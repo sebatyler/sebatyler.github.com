@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 새 블로그를 시작해봅니다.
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 첫 재택 근무
 ---
 

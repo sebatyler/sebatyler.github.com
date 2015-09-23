@@ -4,7 +4,7 @@ title: About
 sitemap:
     priority: 1.0
     changefreq: weekly
-    lastmod: 2015-09-22T23:30:00+09:00
+    lastmod: 2015-09-23T10:00:00+09:00
 ---
 
 ## 좋아하는 것
@@ -16,6 +16,9 @@ sitemap:
 ## 회사 생활
 
 1. NHN 통합검색플랫폼팀 : 2006. 7. 3 ~ 2013. 4. 22
-2. 이음소시어스 개발팀 : 2013. 4. 23 ~ 
+2. 이음소시어스 개발팀 : 2013. 4. 23 ~
 
+## 운영 사이트
 
+1. [I Know Alba](http://www.iknowalba.com). [개발기 포스팅](/2015/05/19/iknowalba.html) : 2015. 4 ~
+2. [Let me Doctor](http://www.letmedoctor.com) : 2015. 9 ~

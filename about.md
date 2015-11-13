@@ -4,8 +4,12 @@ title: About
 sitemap:
     priority: 1.0
     changefreq: weekly
-    lastmod: 2015-09-23T10:00:00+09:00
+    lastmod: 2015-11-13T10:00:00+09:00
 ---
+
+## 현재 상태
+
+이음소시어스 퇴사 후 백수 상태로 LA 거주 중
 
 ## 좋아하는 것
 - LA metal : Skid row, Whitesnake, Guns N' Roses 등
@@ -16,7 +20,7 @@ sitemap:
 ## 회사 생활
 
 1. NHN 통합검색플랫폼팀 : 2006. 7. 3 ~ 2013. 4. 22
-2. 이음소시어스 개발팀 : 2013. 4. 23 ~
+2. 이음소시어스 개발팀 : 2013. 4. 23 ~ 2015. 11. 13
 
 ## 운영 사이트
 

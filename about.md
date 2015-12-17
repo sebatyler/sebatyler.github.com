@@ -4,15 +4,15 @@ title: About
 sitemap:
     priority: 1.0
     changefreq: weekly
-    lastmod: 2015-11-13T10:00:00+09:00
+    lastmod: 2015-12-17T10:00:00+09:00
 ---
 
 ## 현재 상태
 
-이음소시어스 퇴사 후 백수 상태로 LA 거주 중
+이음소시어스 퇴사 후 백수 상태로 미국 LA 거주 중. remote job 제안 환영
 
 ## 좋아하는 것
-- LA metal : Skid row, Whitesnake, Guns N' Roses 등
+- LA metal : Skid Row, Whitesnake, Guns N' Roses 등
 - 태국 음식 : 팟타이, 카오팟, 뿌팟뽕커리, 팟카파오, 텃만꿍, 팟팍봉파이뎅 등
 - 운동 : 축구, 농구, 헬스, 배드민턴 등
 - 여행

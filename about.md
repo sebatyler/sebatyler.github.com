@@ -4,15 +4,15 @@ title: About
 sitemap:
     priority: 1.0
     changefreq: weekly
-    lastmod: 2015-12-17T10:00:00+09:00
+    lastmod: 2016-01-20T10:00:00+09:00
 ---
 
 ## 현재 상태
 
-이음소시어스 퇴사 후 백수 상태로 미국 LA 거주 중. remote job 제안 환영
+이음소시어스 퇴사 후 노는 중
 
 ## 좋아하는 것
-- LA metal : Skid Row, Whitesnake, Guns N' Roses 등
+- LA metal : Skid Row, Whitesnake, Guns N' Roses, Aerosmith, Extreme 등
 - 태국 음식 : 팟타이, 카오팟, 뿌팟뽕커리, 팟카파오, 텃만꿍, 팟팍봉파이뎅 등
 - 운동 : 축구, 농구, 헬스, 배드민턴 등
 - 여행
@@ -20,12 +20,12 @@ sitemap:
 ## 회사 생활
 
 1. NHN 통합검색플랫폼팀 : 2006. 7. 3 ~ 2013. 4. 22
-2. 이음소시어스 개발팀 : 2013. 4. 23 ~ 2015. 11. 13
+2. 이음소시어스 개발팀. [회사 생활 요약](/2015/11/13/veyron-to-golf.html) : 2013. 4. 23 ~ 2015. 11. 13
 
 ## 운영 사이트
 
-1. [I Know Alba](http://www.iknowalba.com). [개발기 포스팅](/2015/05/19/iknowalba.html) : 2015. 4 ~
-2. [Let me Doctor](http://www.letmedoctor.com) : 2015. 9 ~
+1. [알바 리뷰 사이트 I Know Alba](http://www.iknowalba.com). [개발기 포스팅](/2015/05/19/iknowalba.html) : 2015. 4 ~
+2. [병원 리뷰 사이트 Let me Doctor](http://www.letmedoctor.com) : 2015. 9 ~
 
 ## 여행
 
@@ -37,8 +37,11 @@ sitemap:
 6. 몰디브 : 2014. 2. 24 ~ 28
 7. 보라카이 : 2014. 6. 26 ~ 29
 8. 중국 우전, 상하이 : 2014. 12. 24 ~ 27
+9. 멕시코 크루즈 (Puerto Vallarta, Cabo San Lucas) : 2016. 1. 9 ~ 16
+10. 칸쿤 : 2016. 1. 17 ~ 24
 
 ## 해외살이
 
 1. 태국 방콕 (아유타야, 깐짜나부리, 파타야) : 2015. 4. 26 ~ 7.22
+2. 미국 (LA, 캘리포니아) : 2015. 11. 9 ~ 2016. 2. 3
 

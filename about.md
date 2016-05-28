@@ -4,12 +4,12 @@ title: About
 sitemap:
     priority: 1.0
     changefreq: weekly
-    lastmod: 2016-01-20T10:00:00+09:00
+    lastmod: 2016-05-28T18:00:00+09:00
 ---
 
 ## 현재 상태
 
-이음소시어스 퇴사 후 노는 중
+8퍼센트 개발자
 
 ## 좋아하는 것
 - LA metal : Skid Row, Whitesnake, Guns N' Roses, Aerosmith, Extreme 등
@@ -21,11 +21,12 @@ sitemap:
 
 1. NHN 통합검색플랫폼팀 : 2006. 7. 3 ~ 2013. 4. 22
 2. 이음소시어스 개발팀. [회사 생활 요약](/2015/11/13/veyron-to-golf.html) : 2013. 4. 23 ~ 2015. 11. 13
+3. 8퍼센트 개발팀 : 2016. 4. 4 ~
 
 ## 운영 사이트
 
-1. [알바 리뷰 사이트 I Know Alba](http://www.iknowalba.com). [개발기 포스팅](/2015/05/19/iknowalba.html) : 2015. 4 ~
-2. [병원 리뷰 사이트 Let me Doctor](http://www.letmedoctor.com) : 2015. 9 ~
+1. [알바 리뷰 사이트 I Know Alba](https://www.iknowalba.com). [개발기 포스팅](/2015/05/19/iknowalba.html) : 2015. 4 ~
+2. [병원 리뷰 사이트 Let me Doctor](https://www.letmedoctor.com) : 2015. 9 ~
 
 ## 여행
 

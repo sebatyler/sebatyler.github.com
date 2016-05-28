@@ -2,8 +2,7 @@
 name: "Sebatyler's Shout"
 ##Markdown processor
 markdown: kramdown
-##syntax highlighter. change it to pygments
-highlighter: pygments
+highlighter: rouge
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: http://sebatyler.github.io
@@ -13,9 +12,9 @@ sass:
 paginate: 5
 paginate_path: "page:num"
 ##The website description (to be used in meta tags)
-description: sebatyler.github.io
+description: 맛있는 음식 LA 메탈 여행 스포츠 역사를 좋아하는 8퍼센트 개발자
 ##Some frequently used keywords on your website
-keywords: sebatyler, LA metal, shout, 디지털노마드, 재택, 재택근무, 개발, 개발자, 프로그래머, 코딩, digital nomad, github, github page, github.io, pages.github.com, github.com, sebatyler.github.io
+keywords: 방콕, 방콕 마사지, 온눗, 개발, 알바, 모니터링, bangkok, onnut, AWS, rails, ruby, ruby on rails, python, django, 8퍼센트, 8percent, LA 메탈, LA metal, shout, 맛집, 팟타이, 타코, 스포츠, 축구, 역사, 디지털노마드, 재택, 재택근무, 개발자, 프로그래머, 코딩, remote working, programmer, developer, coding, apache, apache module, digital nomad, github, 깃헙, git, github page, github.io, pages.github.com, sebatyler.github.io, sebatyler
 
 ##define this for disqus comment support
 disqus: sebatyler

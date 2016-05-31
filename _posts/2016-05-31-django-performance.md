@@ -94,7 +94,7 @@ for post in Post.objects.all():
     total_view_count += post.view_count
 
 # good example
-total_view_count = Post.objects.all().aggregate(Sum('view_count'))
+total_view_count = Post.objects.all().aggregate(Sum('view_count'))['view_count__sum']
 ```
 
 위의 예는 view_count의 총합을 구하는 코드이다. bad example처럼 직접 loop 돌려서 view_count를 더하려고 하면 전체 post를 읽어 들인 후에 post별로 view_count를 읽어서 더하게 된다.

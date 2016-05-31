@@ -4,6 +4,8 @@ name: "Sebatyler's Shout"
 markdown: kramdown
 highlighter: rouge
 
+gems: [jekyll-paginate]
+
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: http://sebatyler.github.io
 sass:

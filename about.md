@@ -9,7 +9,7 @@ sitemap:
 
 ## 현재 상태
 
-8퍼센트 개발자
+[8퍼센트](https://8percent.kr/?utm_source=github_page&utm_medium=blog&utm_campaign=06_001) 개발자
 
 ## 좋아하는 것
 - LA metal : Skid Row, Whitesnake, Guns N' Roses, Aerosmith, Extreme 등

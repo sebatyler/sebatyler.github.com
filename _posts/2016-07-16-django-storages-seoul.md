@@ -60,6 +60,8 @@ S3BotoStorage를 상속받아서 connection 메소드를 오버라이딩하는 �
 
 이 글을 쓰려고 검색을 하다가 더 간단한 방법을 찾아서 소개하려고 한다.
 
+### settings.py
+
 ```python
 DEFAULT_FILE_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
 

@@ -9,7 +9,8 @@ title: django-storages S3 서울 리전 연동
 ## 원인 파악
 
 기존 리전들의 S3는 Signature Version 4와 Version 2 모두 지원하는 반면 비교적 최근에 생긴 서울, 프랑크푸르트 등 리전의 S3는 Signature Version 4만 지원한다.
-django-storages의 리전 설정을 서울로 바꾸게 되면 Signature Version 2를 사용하게 되어 모든 응답이 400 Bad Request로 오게 된다.
+django-storages의 리전 설정을 서울로 변경하게 되면 Signature Version 2를 사용하게 되어 모든 응답이 400 Bad Request로 오게 된다.
+Signature Version 4를 사용하도록 해주어야 한다.
 
 ## 문제 해결
 
@@ -70,9 +71,16 @@ AWS_QUERYSTRING_AUTH = False
 AWS_S3_HOST = 's3.%s.amazonaws.com' % settings.AWS_REGION
 ```
 
-AWS_S3_HOST 설정으로 host 변경이 된다. S3BotoStorage 코드를 분석해보니 이 설정에 따로 host가 변경이 된다.
-이 방법으로 변경 후에 테스트 코드를 돌려보니 정상적으로 S3에 파일 업로드, 다운로드가 잘 된다.
-좀 더 테스트를 해보고 문제가 없다면 [8퍼센트](https://8percent.kr/?utm_source=github_page&utm_medium=blog&utm_campaign=06_004)에도 이 방법을 적용하려고 한다.
+AWS_S3_HOST 설정으로 host 변경이 된다. S3BotoStorage 코드를 분석해보니 이 설정에 따라 host 변경이 된다.
+이 방법으로 변경 후에 테스트 코드를 돌려보니 정상적으로 파일 업로드, 다운로드가 잘 된다.
+좀 더 테스트를 해보고 문제가 없다면 8퍼센트에도 적용하려고 한다.
+문제 해결하던 시점에는 이 방법이 잘 안됐던 것으로 기억하는데 지금은 잘 돼서 조금 의아하긴 하다.
+
+## 맺음말
+
+[8퍼센트](https://8percent.kr/?utm_source=github_page&utm_medium=blog&utm_campaign=06_004)에 합류하면서 python, django를 제대로 쓰기 시작했다.
+python, django 뉴비이기 때문에 이번 처럼 짤막한 문제 해결 방법이나 지식, 팁 등을 계속 공유해보려고 한다.
+사실 개발이나 분석은 그냥 하면 되지만 그것을 정리해서 이렇게 글로 남기는 것이 더 힘든 것 같다.
 
 ## 참고 링크
 

@@ -12,9 +12,9 @@ sitemap:
 [8퍼센트](https://8percent.kr/?utm_source=github_page&utm_medium=blog&utm_campaign=06_001) 개발자
 
 ## 좋아하는 것
-- LA metal : Skid Row, Whitesnake, Guns N' Roses, Aerosmith, Extreme 등
+- L.A. metal : Skid Row, Whitesnake, Guns N' Roses, Aerosmith, Extreme 등
 - 태국 음식 : 팟타이, 카오팟, 뿌팟뽕커리, 팟카파오, 텃만꿍, 팟팍봉파이뎅 등
-- 운동 : 축구, 농구, 헬스, 배드민턴 등
+- 운동 : 축구(풋살), 농구, 헬스, 배드민턴 등
 - 여행
 
 ## 회사 생활
@@ -23,10 +23,11 @@ sitemap:
 2. 이음소시어스 개발팀. [회사 생활 요약](/2015/11/13/veyron-to-golf.html) : 2013. 4. 23 ~ 2015. 11. 13
 3. 8퍼센트 개발팀 : 2016. 4. 4 ~
 
-## 운영 사이트
+## 개발/운영하는 것들
 
-1. [알바 리뷰 사이트 I Know Alba](https://www.iknowalba.com). [개발기 포스팅](/2015/05/19/iknowalba.html) : 2015. 4 ~
-2. [병원 리뷰 사이트 Let me Doctor](https://www.letmedoctor.com) : 2015. 9 ~
+1. [알바 리뷰 사이트 - I Know Alba](https://www.iknowalba.com). [개발기 포스팅](/2015/05/19/iknowalba.html) : 2015. 4 ~
+2. [병원 리뷰 사이트 - Let me Doctor](https://www.letmedoctor.com) : 2015. 9 ~
+3. [Soft Pop 음악 듣기 아이폰앱 - Just Pop](https://itunes.apple.com/us/app/just-pop/id1182814082?l=ko&ls=1&mt=8) : 2016. 12 ~
 
 ## 여행
 
@@ -40,6 +41,9 @@ sitemap:
 8. 중국 우전, 상하이 : 2014. 12. 24 ~ 27
 9. 멕시코 크루즈 (Puerto Vallarta, Cabo San Lucas) : 2016. 1. 9 ~ 16
 10. 칸쿤 : 2016. 1. 17 ~ 24
+11. 태국 방콕 : 2016. 3. 27 ~ 4. 2
+12. 일본 쓰시마섬 : 2016. 11. 27 ~ 28
+13. 제주도 : 2016. 12. 30 ~ 2017. 1. 1
 
 ## 해외살이
 

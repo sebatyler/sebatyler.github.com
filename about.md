@@ -4,12 +4,12 @@ title: About
 sitemap:
     priority: 1.0
     changefreq: weekly
-    lastmod: 2016-05-28T18:00:00+09:00
+    lastmod: 2017-08-22T18:00:00+02:00
 ---
 
 ## 현재 상태
 
-[8퍼센트](https://8percent.kr/?utm_source=github_page&utm_medium=blog&utm_campaign=06_001) 개발자
+비프로컴퍼니 개발자. Hamburg 적응 중
 
 ## 좋아하는 것
 - L.A. metal : Skid Row, Whitesnake, Guns N' Roses, Aerosmith, Extreme 등
@@ -21,7 +21,8 @@ sitemap:
 
 1. NHN 통합검색플랫폼팀 : 2006. 7. 3 ~ 2013. 4. 22
 2. 이음소시어스 개발팀. [회사 생활 요약](/2015/11/13/veyron-to-golf.html) : 2013. 4. 23 ~ 2015. 11. 13
-3. 8퍼센트 개발팀 : 2016. 4. 4 ~
+3. 8퍼센트 개발팀. [2016년 요약](https://brunch.co.kr/@sebatyler/8) : 2016. 4. 4 ~ 2017. 6. 2
+4. 비프로컴퍼니 개발팀 : 2017. 6. 5 ~
 
 ## 개발/운영하는 것들
 
@@ -49,4 +50,5 @@ sitemap:
 
 1. 태국 방콕 (아유타야, 깐짜나부리, 파타야) : 2015. 4. 26 ~ 7.22
 2. 미국 (LA, 캘리포니아) : 2015. 11. 9 ~ 2016. 2. 3
+3. 독일 함부르크 : 2017. 6. 30 ~
 

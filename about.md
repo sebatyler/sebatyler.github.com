@@ -26,8 +26,8 @@ sitemap:
 
 ## 개발/운영하는 것들
 
-1. [알바 리뷰 사이트 - I Know Alba](https://www.iknowalba.com). [개발기 포스팅](/2015/05/19/iknowalba.html) : 2015. 4 ~
-2. [병원 리뷰 사이트 - Let me Doctor](https://www.letmedoctor.com) : 2015. 9 ~
+1. 알바 리뷰 서비스 - I Know Alba (서비스 종료) [개발기 포스팅](/2015/05/19/iknowalba.html) : 2015. 4 ~ 2017. 10
+2. 병원 리뷰 서비스 - Let me Doctor (서비스 종료) : 2015. 9 ~ 2017. 10
 3. [Soft Pop 음악 듣기 아이폰앱 - Just Pop](https://itunes.apple.com/us/app/just-pop/id1182814082?l=ko&ls=1&mt=8) : 2016. 12 ~
 
 ## 여행

@@ -15,6 +15,7 @@ sitemap:
 - L.A. metal : Skid Row, Whitesnake, Guns N' Roses, Aerosmith, Extreme 등
 - 태국 음식 : 팟타이, 카오팟, 뿌팟뽕커리, 팟카파오, 텃만꿍, 팟팍봉파이뎅 등
 - 운동 : 축구(풋살), 농구, 헬스, 배드민턴 등
+- 위닝일레븐
 - 여행
 
 ## 회사 생활

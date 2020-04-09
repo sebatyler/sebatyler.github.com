@@ -4,7 +4,7 @@ title: About
 sitemap:
     priority: 1.0
     changefreq: weekly
-    lastmod: 2020-01-02T20:45:00+02:00
+    lastmod: 2020-04-09T23:58:00+02:00
 ---
 
 ## 현재 상태
@@ -28,6 +28,7 @@ sitemap:
 4. 비프로컴퍼니 개발팀 : 2017. 6. 5 ~
     - [API 서버 개발](https://brunch.co.kr/@sebatyler/9)
     - [픽스캠 시스템](https://brunch.co.kr/@sebatyler/13)
+    - [Google Cloud Use Case](https://cloud.google.com/customers/bepro/?hl=ko)
 
 ## 개발/운영하는 것들
 

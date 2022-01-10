@@ -4,17 +4,19 @@ title: About
 sitemap:
     priority: 1.0
     changefreq: weekly
-    lastmod: 2021-03-03T15:55:00+09:00
+    lastmod: 2022-01-10T22:50:00+09:00
 ---
 
-## 현재 상태
-
-비프로컴퍼니 개발자
-
 ## 좋아하는 것
-- L.A. metal : Skid Row, Whitesnake, Guns N' Roses, Aerosmith, Extreme 등
-- 태국 음식 : 팟타이, 카오팟, 뿌팟뽕커리, 팟카파오, 텃만꿍, 팟팍봉파이뎅 등
-- 운동 : 축구(풋살), 농구, 헬스, 배드민턴 등
+- 음악
+  - L.A. metal : Skid Row, Whitesnake, Guns N' Roses, Aerosmith, Extreme 등
+  - Rock Guitarist : Gary Moore, Steve Vai, John Sykes 등
+- 음식
+  - 태국 : 팟타이, 카오팟, 뿌팟뽕커리, 팟카파오, 텃만꿍, 팟팍봉파이뎅 등
+  - 베트남 : 분짜
+  - 인도네시아 : 나시고렝, 텝스
+- 와인
+- 운동 : 등산, 축구(풋살), 농구, 헬스, 배드민턴 등
 - 위닝일레븐
 - 여행
 
@@ -25,12 +27,12 @@ sitemap:
     - [회사 생활 요약](/2015/11/13/veyron-to-golf.html)
 3. 8퍼센트 개발팀 : 2016. 4. 4 ~ 2017. 6. 2
     - [2016년 요약](https://brunch.co.kr/@sebatyler/8)
-4. 비프로컴퍼니 개발팀 : 2017. 6. 5 ~
+4. 비프로컴퍼니 개발팀 : 2017. 6. 5 ~ 2021. 12. 31
     - [API 서버 개발](https://brunch.co.kr/@sebatyler/9)
     - [픽스캠 시스템](https://brunch.co.kr/@sebatyler/13)
-    - [Google Cloud Use Case](https://cloud.google.com/customers/bepro/?hl=ko)
+    - Google Cloud Use Case : [한국어](https://cloud.google.com/customers/bepro/?hl=ko) [English](https://cloud.google.com/customers/bepro/?hl=en)
 
-## 개발/운영하는 것들
+## 개발/운영 서비스
 
 1. 알바 리뷰 서비스 - I Know Alba (서비스 종료) [개발기 포스팅](/2015/05/19/iknowalba.html) : 2015. 4 ~ 2017. 10
 2. 병원 리뷰 서비스 - Let me Doctor (서비스 종료) : 2015. 9 ~ 2017. 10

@@ -7,7 +7,7 @@ highlighter: rouge
 gems: [jekyll-paginate]
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: http://sebatyler.github.io
+base_url: https://sebatyler.github.io
 sass:
   sass_dir: _sass
   style: :compressed

@@ -39,6 +39,10 @@ sitemap:
 3. Soft Pop 음악 듣기 아이폰앱 - Just Pop (서비스 종료) : 2016. 12 ~ 2017. 12
 4. [Easy Deutsch](https://de.seba.kim/) : 2018. 10 ~
 
+## 기타 활동
+- 지훈아울의 '20세기 팝송 연대기' 출연 [Podcast](https://podcasts.apple.com/kr/podcast/ep-33-%ED%99%94%EC%9D%B4%ED%8A%B8%EC%8A%A4%EB%84%A4%EC%9D%B4%ED%81%AC-%EB%8F%85%EC%9D%BC%EC%9D%B4%EB%AF%BC3%EB%85%84%EC%B0%A8-%EC%B6%95%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%9D%BD%EC%BB%A4%EA%B9%80%ED%98%B8%EC%8A%B9%EB%8B%98/id1459465211?i=1000455553332) [Podbbang](https://www.podbbang.com/channels/1770357/episodes/23242508)
+- 야곰 테크캐스트 국외 취업 개발자 스토리 '[자유로운 개발자 되기](https://yagom.net/courses/techcast-11/)' 발표
+
 ## 여행
 
 1. 제주도 : 2006. 6. 29 ~ 7. 1

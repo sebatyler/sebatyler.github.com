@@ -1,10 +1,10 @@
 ##The website title
-name: "Sebatyler's Shout"
+title: "Sebatyler's Shout"
 ##Markdown processor
 markdown: kramdown
 highlighter: rouge
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: https://sebatyler.github.io
@@ -16,7 +16,7 @@ paginate_path: "page:num"
 ##The website description (to be used in meta tags)
 description: 백엔드 개발 경력 15년 개발자 블로그
 ##Some frequently used keywords on your website
-keywords: 개발 멘토, 파이썬 개발 멘토, 백엔드 개발 멘토, 개발 멘토링, 파이썬 개발 멘토링, 백엔드 개발 멘토링, development mentor, python mentor, backend mentor, development mentoring, python mentoring, backend mentoring, 방콕, 온눗, 개발, 알바, 모니터링, bangkok, onnut, backend, backend development, backend developer, AWS, 아마존 웹서비스, google cloud, 구글 클라우드, rails, ruby, ruby on rails, 레일즈, 루비, 루비 온 레일즈, python, django, 파이썬, 장고, 8퍼센트, 8percent, 비프로, 비프로 컴퍼니, bepro, bepro company, LA 메탈, LA metal, shout, 맛집, 팟타이, 타코, 스포츠, 축구, 역사, 디지털노마드, 재택, 재택근무, 개발자, 프로그래머, 코딩, remote working, programmer, developer, coding, apache, apache module, digital nomad, github, 깃헙, git, github page, github.io, pages.github.com, sebatyler.github.io, sebatyler
+keywords: 방콕, 온눗, 개발, 알바, 모니터링, bangkok, onnut, backend, backend development, backend developer, AWS, 아마존 웹서비스, google cloud, 구글 클라우드, rails, ruby, ruby on rails, 레일즈, 루비, 루비 온 레일즈, python, django, 파이썬, 장고, 8퍼센트, 8percent, 비프로, 비프로 컴퍼니, bepro, bepro company, LA 메탈, LA metal, shout, 맛집, 팟타이, 타코, 스포츠, 축구, 역사, 디지털노마드, 재택, 재택근무, 개발자, 프로그래머, 코딩, remote working, programmer, developer, coding, apache, apache module, digital nomad, github, 깃헙, git, github page, github.io, pages.github.com, sebatyler.github.io, sebatyler
 
 ##define this for disqus comment support
 disqus: sebatyler

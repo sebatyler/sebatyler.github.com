@@ -258,5 +258,5 @@ Android에서는 gradle plugin과 씨름하다가 java-dotenv를 사용해서 �
 iOS에서는 사실 Build phase에 Run script를 추가해서 env.xcconfig 파일을 생성하려고 했는데 Build phase 시작 시점에는 이미 Debug.xcconfig 혹은 Release.xcconfig가 로드된 상태여서 env.xcconfig를 찾지 못한다는 에러와 함께 실패했다. 그래서 Pre-action을 시도했고 cd 경로를 찾느라 좀 헤맸지만 결국에는 해결을 했다.
 별 것 아닌것 같은 일에 시간과 노력이 꽤 들어갔지만 Android, iOS 앱 빌드 과정에 대해서 조금은 이해하게 된 것 같다.
 
-아직 시도해보지는 않았지만 위의 과정을 거쳐서 해결한 이후에 **[flutter_config_plus](https://pub.dev/packages/flutter_config_plus)** 라는 Flutter 패키지를 발견했다. 자세히 보지는 않았지만 이걸 사용하는게 쉬운 방법일 수 있어 보인다. 누군가는 나와 비슷한 고민을 한게 아닌가 싶다. 진작 알았으면 좋았겠지만 아직 해본 건 아니기에 단언할 수는 없다. 다음에 시간나면 한번 시도해봐야 겠다.
+아직 시도해보지는 않았지만 위의 과정을 거쳐서 해결한 이후에 **[flutter_config](https://pub.dev/packages/flutter_config)** 라는 Flutter 패키지를 발견했다. 자세히 보지는 않았지만 이걸 사용하는게 쉬운 방법일 수 있어 보인다. 누군가는 나와 비슷한 고민을 한게 아닌가 싶다. 진작 알았으면 좋았겠지만 아직 해본 건 아니기에 단언할 수는 없다. 다음에 시간나면 한번 시도해봐야 겠다.
 적어도 내가 삽질했던 이야기와 잘 동작하는 코드를 공유한 것이 누군가에게는 가이드가 될 수 있지 않을까 싶고, 아니면 적어도 같은 실수를 반복하지 않게 해줄 수 있을 것 같다.

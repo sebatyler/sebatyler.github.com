@@ -5,7 +5,13 @@
 {% elsif site.keywords %}
 <meta name="keywords" content="{{ site.keywords }}" />
 {% endif %}
-{% if page.excerpt %}
+{% if page.description %}
+<meta name="description" content="{{ page.description }}">
+<meta property="og:description" content="{{ page.description }}" />
+<meta name="twitter:description" content="{{ page.description }}" />
+<meta property="og:type" content="article" />
+<link rel="canonical" href="{{ site.base_url }}{{ page.url }}" />
+{% elsif page.excerpt %}
 <meta name="description" content="{{ page.excerpt | strip_html }}">
 <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
 <meta name="twitter:description" content="{{ page.excerpt | strip_html }}" />

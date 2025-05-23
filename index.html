@@ -10,6 +10,7 @@ changefreq: weekly
 	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	<div class="meta-info">
 		<span class="meta"><time class="timeago postlist-meta" datetime="{{ post.date | date: "%Y. %m. %d" }}"><i class="fa fa-calendar"></i>{{ post.date | date: "%Y. %m. %d" }}</time></span>
+		<!--
 		{% if post.tags and post.tags.size > 0 %}
 			<div class="tags">
 				Tagged:
@@ -18,6 +19,7 @@ changefreq: weekly
 				{% endfor %}
 			</div>
 		{% endif %}
+		-->
 	</div>
 	<p class="description">{{ post.excerpt | strip_html}}</p>
 </div>

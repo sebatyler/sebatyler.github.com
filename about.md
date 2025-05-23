@@ -4,20 +4,20 @@ title: About
 sitemap:
     priority: 1.0
     changefreq: weekly
-    lastmod: 2022-01-10T22:50:00+09:00
+    lastmod: 2025-05-23T13:20:00+09:00
 ---
 
 ## 좋아하는 것
+
 - 음악
   - L.A. metal : Skid Row, Whitesnake, Guns N' Roses, Aerosmith, Extreme 등
   - Rock Guitarist : Gary Moore, Steve Vai, John Sykes 등
 - 음식
   - 태국 : 팟타이, 카오팟, 뿌팟뽕커리, 팟카파오, 텃만꿍, 팟팍봉파이뎅 등
-  - 베트남 : 분짜
+  - 베트남 : 분짜, 껌승
   - 인도네시아 : 나시고렝, 텝스
-- 와인
+- 와인 : Caymus
 - 운동 : 등산, 축구(풋살), 농구, 헬스, 배드민턴 등
-- 위닝일레븐
 - 여행
 
 ## 회사 생활
@@ -31,6 +31,9 @@ sitemap:
     - [API 서버 개발](https://brunch.co.kr/@sebatyler/9)
     - [픽스캠 시스템](https://brunch.co.kr/@sebatyler/13)
     - Google Cloud Use Case : [한국어](https://cloud.google.com/customers/bepro/?hl=ko) [English](https://cloud.google.com/customers/bepro/?hl=en)
+5. Starry Night Labs CTO : 2022. 4 ~ 2023. 11
+6. 프리랜싱 : 2024. 1 ~ 2024. 9
+7. 앳플로우 CTO : 2024. 10 ~
 
 ## 개발/운영 서비스
 
@@ -40,6 +43,7 @@ sitemap:
 4. [Easy Deutsch](https://de.seba.kim/) : 2018. 10 ~
 
 ## 기타 활동
+
 - 지훈아울의 '20세기 팝송 연대기' 출연 [Podcast](https://podcasts.apple.com/kr/podcast/ep-33-%ED%99%94%EC%9D%B4%ED%8A%B8%EC%8A%A4%EB%84%A4%EC%9D%B4%ED%81%AC-%EB%8F%85%EC%9D%BC%EC%9D%B4%EB%AF%BC3%EB%85%84%EC%B0%A8-%EC%B6%95%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%9D%BD%EC%BB%A4%EA%B9%80%ED%98%B8%EC%8A%B9%EB%8B%98/id1459465211?i=1000455553332) [Podbbang](https://www.podbbang.com/channels/1770357/episodes/23242508)
 - 야곰 테크캐스트 국외 취업 개발자 스토리 '[자유로운 개발자 되기](https://yagom.net/courses/techcast-11/)' 발표
 
@@ -81,4 +85,3 @@ sitemap:
 1. 태국 방콕 (아유타야, 깐짜나부리, 파타야) : 2015. 4. 26 ~ 7.22
 2. 미국 (LA, 캘리포니아) : 2015. 11. 9 ~ 2016. 2. 3
 3. 독일 함부르크 : 2017. 6. 30 ~ 2020. 11. 15
-
